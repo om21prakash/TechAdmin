@@ -1,0 +1,2 @@
+# TechAdmin
+Linux, MQ, AIX
